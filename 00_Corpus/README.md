@@ -25,5 +25,6 @@
 # it was being run on the whole corpus, more changes would need to be made.
 # For example, it is completely possible for an abbreviation like k.g. to end a sentence. In this
 # case, my current code would not be sufficient to account for this. For the held-out text, it seems
-# like the additions made did a nice job of segmenting the text in a way that I felt was the most
-# logical. 
+# like the additions did a nice job of segmenting the text in a way that I felt was the most
+# logical. I do see 5 errors within the heldout text that appear to be issues of spaces or punctuation mid-word that are typos but cause a new line break. There's also the 
+# occurance of <br> or .<br>. I believe it stands for <br>, but I am not sure why it is outputting this. 

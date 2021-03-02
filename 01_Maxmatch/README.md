@@ -27,3 +27,6 @@ while line != '':
         print(' '.join(maxmatch(line.strip('\n'), dictionary)))
 
         line = fd.readline()
+
+
+# run in code line cat japanesedict.txt | python3 maxmatch.py japanesedict.txt

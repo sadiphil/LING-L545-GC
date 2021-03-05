@@ -12,6 +12,7 @@ def maxmatch(sentence, dictionary):
 # returning the result
                 return []
 # look up the longest word within the range of a string, starting at the beginning of the string, which is marked by the use of 0. 
+# and goes until the end of 'i' counting from the back of the string as designated by the negative mark.
 # return the first word and add to the return a new maxmatch to the remainder after the last running in the same dictionary. Essentially, 
 # keep looking up the longest word in the dictionary.
         for i in range(0, len(sentence)):

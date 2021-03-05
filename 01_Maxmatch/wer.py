@@ -1,4 +1,5 @@
 import sys
+# numpy is a package that you can install in python3 that does larger mathematical calculations.
 import numpy
 
 def editDistance(r, h):
@@ -59,7 +60,7 @@ def getStepList(r, h, d):
 
 def alignedPrint(list, r, h, result):
     '''
-    This funcition is to print the result of comparing reference and hypothesis sentences in an aligned way.
+   # This funcition is to print the result of comparing reference and hypothesis sentences in an aligned way.
 
     Attributes:
         list   -> the list of steps.
@@ -185,6 +186,7 @@ def wer(r, h):
     #result = str("%.2f" % result) + "%"
     #alignedPrint(list, r, h, result)
     return result
+# define totalwer, what files to read from command line and to increment totalwer with wer(r, h)
 totalwer = 0.0
 if __name__ == '__main__':
     filename1 = sys.argv[1]
@@ -196,15 +198,16 @@ if __name__ == '__main__':
     for(r,h) in zip(rs, hs):
         totalwer+= wer(r, h)
 
-#line counter attempt
+#line counter attempt to be used so that we can calculate the sum of WER divided by the number of lines.
 # opening a file
 
     counter = 0
-#reading from file
+#reading from file, having the counter increment with the operator that follows
 for line in hs:
         counter += 1
 
-#the value of i += 1, the value of both is i once the increment has been added
 
+# pring first the text, then the output of totalwer, the text and then the output of counter. 
+# Then print the final WER as the totalwer divided by the counter.
 print('Average WER', totalwer, 'Line Count', counter)
 print('WER =', totalwer/counter)

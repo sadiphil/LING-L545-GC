@@ -1,0 +1,52 @@
+Multichar_Symbols
+# Spanish
+
+%>                   ! Frontera de morfema
+%<n%>                ! Nombre
+%<gen%>              ! Genitivo
+%<loc%>              ! Locativo
+%{m%}                ! pe/me
+%<der_kue%>          ! Nominal
+%<comp%>             ! Comparative
+%{g%}                ! Nasalization PL
+%{n%}                ! Nasalization PL
+%<pl%>               ! Place
+%<nom%>              ! Nominative
+
+LEXICON Root
+
+Nouns ;
+
+LEXICON N
+
+%<n%>: CASE ;
+%<n%>: SUBST ;
+%<n%>: PL ;
+
+LEXICON SUBST
+
+%<der_kue%>:%>kue # "weight: 1.0" ;
+%<comp%>:icha # ;
+
+LEXICON CASE
+
+%<nom%>: # ; ! ""
+%<gen%>:%>gui #; ! "de"
+%<loc%>:%>%{m%}e # ; ! "a, en"
+# ;
+
+LEXICON PL
+
+%<pl%>:%>%{n%}%{g%}uéra CASE ;
+
+LEXICON Nouns
+
+ava:ava N ; ! "raza, gente"
+óga:óga N ; ! "casa"
+irũ:irũ N ; ! "amigo"
+apyka:apyka N ; ! "silla"
+tembiasa:tembiasa N ; ! "experiencia"
+tembiasakue:tembiasakue N ; ! "historia"
+akãvai:akãvai N ; ! "locura"
+apykakúera:apykakúera N ; ! "silla plural"
+irũnguéra:irũnguéra N ; ! "amigo plural"

@@ -5,8 +5,14 @@
   1. Tree 2
   ![Image of Sentence 2](https://github.com/sadiphil/Pictures/blob/main/Sentence2.JPG)
   
-  1. Tree 3
+  Tree 3
   ![Image of Sentence 3](https://github.com/sadiphil/Pictures/blob/main/Sentence3.JPG)
+  
+  Tree 4
+  ![Image of Sentence 4](https://github.com/sadiphil/Pictures/blob/main/Sentence4.JPG)
+  
+  Tree 5
+  ![Image of Sentence 5](https://github.com/sadiphil/Pictures/blob/main/Sentence5.JPG)
   
   1. Tree 4
   

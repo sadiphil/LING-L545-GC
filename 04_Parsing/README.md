@@ -8,16 +8,16 @@ I do not see any issues with this tree. What is not noted on the tree, but is in
   
   ## Tree 3
   ![Image of Sentence 3](https://github.com/sadiphil/Pictures/blob/main/Sentence3.JPG)
-  
+  This sentence has an issue that is also in the test file. That is, in the test file, the word 'selanjutnya' which means 'then, afterwards, hereinafter" is an adverb not an adjective. ALthough, it would still be governed by the root 'kisah'. Usually, within the file, complex words are broken down into their morphemes, but in this case, 'selanhutnya' is not. It should have been broke down into se + lanjut +nya for one + continue + possessive pronoun 3rd person.
   ## Tree 4
   ![Image of Sentence 4](https://github.com/sadiphil/Pictures/blob/main/Sentence4.JPG)
-  
+  This tree has correctly identified the root verb and in the dictionary file breaks it down into its correct parts of MeN + serang. Amir and Husein are labeled as flat correctly because they are the first and last name of the same person. So, both are proper nouns that do not govern or depend on the other. The phrase 'yang menjadi sekutunya' is marked correctly as the verb 'menjadi' is governing 'yang' (who), as well as 'sekutunya' the object of 'menjadi'. 'Sekutunya' is also broken down into its morphemes in the file as sekut + nya.
   ## Tree 5
   ![Image of Sentence 5](https://github.com/sadiphil/Pictures/blob/main/Sentence5.JPG)
   
  ## Tree 6
   ![Image of Sentence 6](https://github.com/sadiphil/Pictures/blob/main/Sentence6.JPG)
-  
+ This sentence is labeled correctly. Yakub is a name and is labeled right as a proper noun that depends on the verb 'menyetujuinya'. 'Menyetuhuinya' is labeled correctly as a verb and is broken down into its correct parts in the dictionary file as meN + setuju + i + nya. Although it does label the sentence as 'active', which is correct, it is missing the label 'intransitive' for MeN.  
  ## Tree 7
   ![Image of Sentence 7](https://github.com/sadiphil/Pictures/blob/main/Sentence7.JPG)
   
@@ -25,7 +25,7 @@ I do not see any issues with this tree. What is not noted on the tree, but is in
   ![Image of Sentence 8](https://github.com/sadiphil/Pictures/blob/main/Sentence8.JPG)
   
   ## Tree 9
-  ![Image of Sentence 9](https://github.com/sadiphil/Pictures/blob/main/Sentence9.JPG)
+  ![Image of Sentence 9](https://github.com/sadiphil/Pictures/blob/main/Sentence11.JPG)
   
   ## Tree 10
   ![Image of Sentence 10](https://github.com/sadiphil/Pictures/blob/main/Sentence10.JPG)

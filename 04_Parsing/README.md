@@ -25,7 +25,7 @@ I do not see any issues with this tree. What is not noted on the tree, but is in
   ![Image of Sentence 8](https://github.com/sadiphil/Pictures/blob/main/Sentence8.JPG)
   
   ## Tree 9
-  ![Image of Sentence 9](https://github.com/sadiphil/Pictures/blob/main/Sentence11.JPG)
+  ![Image of Sentence 11](https://github.com/sadiphil/Pictures/blob/main/Sentence11.JPG)
   
   ## Tree 10
   ![Image of Sentence 10](https://github.com/sadiphil/Pictures/blob/main/Sentence10.JPG)

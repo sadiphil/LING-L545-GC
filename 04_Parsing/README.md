@@ -5,7 +5,7 @@ I do not see any issues with this tree. What is not noted on the tree, but is in
   
   ## Tree 2
   ![Image of Sentence 2](https://github.com/sadiphil/Pictures/blob/main/Sentence2.JPG)
-  
+  Usually 'to be' is not the root of a sentence. In this case, it would move to the first noun, but in this case, 'ada' is correctly labeled as the root. In this case 'apakah' is translated as "is there" or "does there" and 'ada' is the main verb being translated as 'to exist'. Direclty translated, the whole sentence is "Does there exist development improvement?". I agree that the compound word perkembangan perbaikan should have the first word governing the second. This is because the word order for compound words is opposite of that in English. So, really its best translation to English would be "Is there any improvement progress?. 
   ## Tree 3
   ![Image of Sentence 3](https://github.com/sadiphil/Pictures/blob/main/Sentence3.JPG)
   This sentence has an issue that is also in the test file. That is, in the test file, the word 'selanjutnya' which means 'then, afterwards, hereinafter" is an adverb not an adjective. ALthough, it would still be governed by the root 'kisah'. Usually, within the file, complex words are broken down into their morphemes, but in this case, 'selanhutnya' is not. It should have been broke down into se + lanjut +nya for one + continue + possessive pronoun 3rd person.

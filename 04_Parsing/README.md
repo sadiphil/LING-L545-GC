@@ -23,7 +23,7 @@ I do not see any issues with this tree. What is not noted on the tree, but is in
   
  ## Tree 8
   ![Image of Sentence 8](https://github.com/sadiphil/Pictures/blob/main/Sentence8.JPG)
-  
+  There is an issue with this tree that is in the test file as well. The issue is the POS tag on the word 'sebagian'. First, they have 'sebagian' listed as a lemma, but the lemma is 'bagi' with the prefix 'se' meaing 'one' or 'as' and the suffix 'an' which is usually indicative used when deriving a noun from another word class. In some dictionaries, it is labelled as a noun, and in others it is labeled as an adjective, but none label it as a determiner. Both instances would be translated as 'one part' but might be changed for a more comparable translation to 'One part' and 'a part' respectively. According to several dictionaries, 'lagi' should also be labelled as a preposition in this case. Although these parts of speech ar labeled incorrectly, I do still agree with the way the tree is written for the first 'sebagian', but I don't agree with the second one. 'lagi' should be marked as a preposition which is governed by 'Tanara'as here it means 'another' and is the start of the prepositional phrase 'another part in Tanara'.
   ## Tree 9
   ![Image of Sentence 11](https://github.com/sadiphil/Pictures/blob/main/Sentence11.JPG)
   

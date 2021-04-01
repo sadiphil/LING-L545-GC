@@ -1,7 +1,7 @@
 # <h1> Trees 
   ## Tree 1
   ![Image of Sentence 1](https://github.com/sadiphil/Pictures/blob/main/Sentence1.JPG)
-I do not see any issues with this tree. What is not noted on the tree, but is in the file is that -nya on timnya is a 3rd person possessive marker. It also is quite accurate in marking 'pemain' as 'penmain', which is the UR. In Indonesian, a noun can be formed by adding peN- to the beginning of a verb. Here, peN is added to the verb 'main'. In this case, the nasal 'N' assimilates to the 'm' causing the surface form 'pemain'.
+I do not see any issues with this tree. What is not noted on the tree, but is in the conllu file is that -nya on timnya is a 3rd person possessive marker. It also is quite accurate in marking 'pemain' as 'penmain', which is the UR. In Indonesian, a noun can be formed by adding peN- to the beginning of a verb, with 'N' meaning 'nasal' as the nasal chosen depends on the intial sound of the word it is attaching to. Here, peN is added to the verb 'main'. In this case, the nasal 'N' assimilates to the 'm' causing the surface form 'pemain'. "Adalah" is also correctly labeled as a copula. 'Adalah' means 'is' in the equative sense and can only be used in the way. It cannot be used with adjectives in sentences like 'she is pretty'. Given the sense here, it seems accurate to have 'adalah' depending on 'pemain'. 
   
   ## Tree 2
   ![Image of Sentence 2](https://github.com/sadiphil/Pictures/blob/main/Sentence2.JPG)
